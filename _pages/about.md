@@ -11,7 +11,7 @@ redirect_from:
 
 I am an MR physicist specializing in **fMRI**, with a particular focus on **physiological noise correction**, **magnetic field monitoring**, and **image reconstruction**. Currently, I am the **Lead MR Physicist** at the **[Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the Department of Psychology, University of Toronto.
 
-
+My personal story through the lens of MRI can be found in this [ISMRM Member Spotlight](https://www.ismrm.org/member-spotlight/lars-kasper/) from 2023.
 
 ## Research Interests
 
