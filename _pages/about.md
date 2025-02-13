@@ -9,22 +9,26 @@ redirect_from:
 
 ## Welcome!
 
-I am **Lars Kasper, PhD**, an MR physicist specializing in **fMRI, physiological noise correction, magnetic field monitoring, image reconstruction, and computational neuroimaging**. Currently, I am the **Lead MR Physicist at the [Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the **Department of Psychology, University of Toronto**.
+I am an MR physicist specializing in **fMRI**, with a particular focus on **physiological noise correction**, **magnetic field monitoring**, and **image reconstruction, **. Currently, I am the **Lead MR Physicist** at the **[Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the Department of Psychology, University of Toronto.
+
+
 
 ## Research Interests
 
-- Advanced fMRI methodologies
-- Physiological noise correction in MRI
-- Bayesian modeling & computational neuroscience
+My research focuses on adapting state of the art advances in MR imaging methodology in the context of neuroscientific and translational MRI applications, Therein, I aim at increasing sensitivity from both angles, i.e., maximizing the available signal of interest by advanced MR acquisition methods, while also reducing the underlying noise floor, by modeling physiological noise and imperfections (artifacts) in functional MRI (fMRI) measurements. A key instrument for identifying and disentangling noise sources in this framework is the integration of independent measurements from contactless or peripheral sensors concurrent to the MR data collection, such as magnetic field probes, pulse plethysmographs or breathing belts.
+
+- Advanced fMRI methodologies (spiral imaging, magnetic field monitoring)
+- Physiological noise correction in MRI (PhysIO Toolbox)
+- Bayesian modeling & computational neuroscience (Dynamic Causal Modeling)
 - Research software engineering for MRI analysis
-- Open-source tool development (PhysIO, UniQC, TAPAS)
+- Open-source tool development (PhysIO, UniQC, TAPAS, GIRFReco.jl, Neurodesk)
 
 ## Academic Metrics
 
 - **h-index:** 27  
 - **Publications:** 43 peer-reviewed articles  
 - **Citations:** 3599 (Google Scholar, Feb 2025)  
-- **Key Awards:** ISMRM Junior Fellow, ISMRM Conference Highlight Abstract 2020
+- **Key Awards:** ISMRM Junior Fellow 2017, ISMRM Conference Highlight Abstract 2020
 
 ## Featured Projects
 
