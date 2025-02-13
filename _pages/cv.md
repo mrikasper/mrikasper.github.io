@@ -11,6 +11,7 @@ redirect_from:
 Lead MR Physicist, Toronto Neuroimaging Facility (ToNI)  
 Department of Psychology, University of Toronto  
 
+This is my academic CV. My personal story through the lens of MRI can be found in this [ISMRM Member Spotlight](https://www.ismrm.org/member-spotlight/lars-kasper/) from 2023.
 
 ## Academic Positions  
 - **Since 2023:** Lead MR Physicist, Toronto Neuroimaging Facility (ToNI), University of Toronto  
