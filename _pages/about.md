@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I am an MR physicist specializing in **fMRI**, with a particular focus on **physiological noise correction**, **magnetic field monitoring**, and **image reconstruction, **. Currently, I am the **Lead MR Physicist** at the **[Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the Department of Psychology, University of Toronto.
+I am an MR physicist specializing in **fMRI**, with a particular focus on **physiological noise correction**, **magnetic field monitoring**, and **image reconstruction**. Currently, I am the **Lead MR Physicist** at the **[Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the Department of Psychology, University of Toronto.
 
 
 
