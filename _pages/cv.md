@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume.html
+  - /cv.html
 ---
 
 # Lars Kasper, PhD  
@@ -71,19 +73,21 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 - Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – PhysIO & Spiral Imaging  
 - Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox  
 
-## Professional Experience  
+## Service and Leadership 
 - Co-Chair, [MRITogether24 Workshop](https://mritogether.esmrmb.org) by ESMRMB (2024)  
 - Member, MRITogether Working Group of ESMRMB (since 2025)  
 - Member, EDI Committee, Department of Psychology, University of Toronto (since 2023)  
 - Member, EDI Task Force, ISMRM (since 2023) 
-- Siemens IDEA Pulse Programming Course (2021) 
+- Founding Member, Ad-hoc ISMRM Family Committee (2019-2020)
 
 ## Skills  
-- **Technical:** MR physics, fMRI analysis, magnetic field monitoring, image reconstruction, research software engineering (Matlab, Julia)  
+- **Technical:** 
+    - transferable: MR physics, signal processing fMRI analysis, research software engineering (Matlab, Julia)
+    - domain-specific: magnetic field monitoring, image reconstruction, physiological noise in MRI, Siemens IDEA Pulse Programming Course (2021) 
 - **Languages:** German (native), English (fluent), French (beginner)  
 
 ## Awards  
-- ISMRM Highlights of the Conference Award (2020)  
+- ISMRM Highlights of the Conference Recognition (2020)  
 - ISMRM Junior Fellow (2017)
 - ISMRM Magna Cum Laude Abstract Award (2017)  
 - ISMRM Summa Cum Laude Abstract Award (2016)
