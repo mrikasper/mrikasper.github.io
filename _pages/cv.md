@@ -13,6 +13,17 @@ Department of Psychology, University of Toronto
 
 This is my academic CV. My personal story through the lens of MRI can be found in this [ISMRM Member Spotlight](https://www.ismrm.org/member-spotlight/lars-kasper/) from 2023.
 
+## Bio
+Lars received his PhD in Biomedical Engineering from ETH Zurich (Switzerland) in 2014, with a work on "Noise Reduction in fMRI Utilizing Concurrent Magnetic Field Monitoring". During his postdoctoral research in the MR Methods and Technology Group (Klaas Pruessmann) and Translational Neuromodeling Unit (Klaas Stephan) in Zurich, Lars was working at the interface between cutting-edge imaging concepts and their applications in computational neuroscience and psychiatry. In particular, Lars' projects included ultra-high field spiral MRI and NMR-probe based field monitoring in the context of fMRI, as well as laminar fMRI applications to investigate prediction error signaling according to the Bayesian Brain hypothesis.
+ 
+From 2020 to 2023, Lars was a scientific associate in Kamil Uludag's lab for Brain Research in Advanced Imaging and Neuromodeling - Toronto (BRAIN-TO), focusing on the translation of promising MR sequence and reconstruction concepts into the clinics, e.g., for spiral diffusion MRI.
+
+Currently, Lars is the Lead MR Physicist of the [Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca), overseeing operations of the facility that hosts a state-of-the-art Siemens 3T Prisma MRI and is highly specialized on functional imaging for cognitive neuroscience and psychiatric applications.
+ 
+Lars' core interest is improving image and time series quality in MRI through understanding both numerator and denominator of the signal-to-noise ratio, i.e., optimizing sampling in MRI, as well as characterizing and correcting for the various physiological and system-induced noise sources.
+ 
+Lars is a fervent supporter of open and accessible neuroscience, and contributes through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development), as well as an inaugural member of the family committee of the International Society for Magnetic Resonance in Medicine, aiming to improve accessibility for researchers with caregiver responsibilities.
+
 ## Academic Positions  
 - **Since 2023:** Lead MR Physicist, Toronto Neuroimaging Facility (ToNI), University of Toronto  
 - **2020-2023:** Scientific Associate III, BRAIN-To Lab, Techna Institute, University Health Network, Toronto  
