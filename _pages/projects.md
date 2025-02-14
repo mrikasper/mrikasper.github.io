@@ -1,12 +1,9 @@
 ---
+layout: archive
 permalink: /projects/
-title: "projects"
+title: "Projects and Contributions to Science"
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
 ---
-# Projects and Contributions to Science
 
 
 ## Improving Signal by Advanced Acquisition and Image Reconstruction: Spiral and Multi-Echo MRI
@@ -42,4 +39,4 @@ I strongly support open, transparent and reproducible science. Beyond publishing
 3.	Bollmann S*, Kasper L*, Pruessmann K, Barth M, Stephan KE. Interactive and flexible quality control in fMRI sequence evaluation: the uniQC toolbox. Proceedings of the 26th Annual Meeting of ISMRM. Paris, France; 2018. p. 2842
 4.	Renton AI, [...], Kasper L, [...], and Bollmann S. Neurodesk: an accessible, flexible and portable data analysis environment for reproducible neuroimaging. Nat Methods. 2024; 21, 804–808.
 
-For a full list of my peer-reviewed publications (43/7/2 total/first/senior author), please see [google scholar]() or [NCBI My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lars.kasper.1/bibliography/public/)
+For a full list of my peer-reviewed publications (43/7/2 total/first/senior author), please see [google scholar](https://scholar.google.com/citations?user=PL1XGecAAAAJ) or [NCBI My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lars.kasper.1/bibliography/public/)

@@ -225,6 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  # pages: # enable building of single .md files (to html) in _pages/ directory
+  #   output: true
+  #   permalink: /:path/
 
 
 # These settings control how pages and collections are included in the site

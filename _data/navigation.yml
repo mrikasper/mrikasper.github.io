@@ -5,8 +5,12 @@
 # prevent it from being included in the site.
 
 main:
+main:
+  - title: "Home"
+    url: /
+
   - title: "Projects"
-     url: /projects/
+    url: /projects/
 
   # - title: "Talks"
   #   url: /talks/    
