@@ -82,8 +82,8 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 
 ## Skills  
 - **Technical:** 
-    - transferable: MR physics, signal processing fMRI analysis, research software engineering (Matlab, Julia)
-    - domain-specific: magnetic field monitoring, image reconstruction, physiological noise in MRI, Siemens IDEA Pulse Programming Course (2021) 
+    - transferable: MR physics, biomedical engineering, signal processing, research software engineering (Matlab, Julia)
+    - domain-specific: magnetic field monitoring, image reconstruction, fMRI analysis, physiological noise in MRI, Siemens IDEA Pulse Programming Course (2021) 
 - **Languages:** German (native), English (fluent), French (beginner)  
 
 ## Awards  
