@@ -35,50 +35,53 @@ This is my academic CV. My personal story through the lens of MRI can be found i
 - **High School (Abitur), Gymnasium "Georg-Cantor", Halle (Saale), Germany** (1993-2002)  
 
 ## Project Management Experience  
-- **Facility Management at ToNI, University of Toronto** (since 2023)  
-- **Translation of MR technology advancements to clinical MR systems (3T)** (2020-2023)  
-- **Co-Investigator, LAYMM Study on Ultra-high Field fMRI** (2016-2019)  
-- **Software Maintainer, TAPAS Software Suite** (2016-2018)  
+- Facility Management and Operations at Toronto Neuroimaging Facility, University of Toronto** (since 2023)  
+- Translation of MR technology advancements to clinical MR systems (3 Tesla), UHN, Toronto (2020-2023)  
+- Co-Investigator, pioneering layer fMRI study at ultra-high Field (7 Tesla), ETH Zurich (2016-2019)  
+- Software Maintainer, TAPAS Software Suite, University of Zurich (2016-2018)  
 
 ## Teaching Experience  
-- **Invited Workshops on the PhysIO Toolbox** (since 2013)  
-- **Methods & Models for fMRI Analysis, ETH Zurich** (2012-2018)  
-- **Annual SPM for fMRI Course, Zurich** (2009-2016)  
-- **Faculty, HBM Educational Courses** (2015, 2016)  
-- **Faculty, ISMRM Educational Courses** (2016, 2020, 2024)  
+- Invited Workshops on the PhysIO Toolbox (since 2013)  
+- University Course Instructor *Methods & Models for fMRI Analysis*, ETH Zurich (2012-2018)  
+- Instructor and Tutor at the *Annual SPM for fMRI Course, Zurich* (2009-2016)  
+- Conference Faculty, HBM Educational Courses on fMRI preprocessing (2015, 2016)  
+- Conference Faculty, ISMRM Educational Courses (2016, 2020, 2024)  
 
-<!-- ## Supervision of Students  
+## Supervision of Students  
+As staff scientist, I have not been a formal supervisor to students. But I have taken on roles as main day-to-day supervisor (including thesis project design and management) in my previous appointments.
+
 | Type  | Institution  | Number of Students  |
 |-------|-------------|--------------------|
 | Master's Students | ETH Zurich  | 3 |
 | PhD Students  | ETH Zurich  | 1 |
-| Master's Students | Techna Institute, UHN, Toronto | 1 |
-| PhD Students  | Techna Institute, UHN, Toronto | 1 | -->
+| Master's Students | Krembil Brain Institute, UHN, Toronto | 1 |
+| PhD Students  | Krembil Brain Institute, UHN, Toronto | 1 |
 
 ## Invited Talks  
-- **MRITogether, ESMRMB (2023)** – TAPAS, UniQC, PhysIO Toolbox (Online)  
-- **Cardiff University Brain Research Imaging Centre (CUBRIC, 2022)** – PhysIO Toolbox (Online)  
-- **Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020)** – PhysIO & Spiral Imaging  
-- **Bernstein Center for Computational Neuroscience, Berlin (2017)** – PhysIO Toolbox  
+- MRITogether, ESMRMB (2023) – TAPAS, UniQC, PhysIO Toolbox (Online)  
+- Cardiff University Brain Research Imaging Centre (CUBRIC, 2022) – PhysIO Toolbox (Online)  
+- Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – PhysIO & Spiral Imaging  
+- Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox  
 
 ## Professional Experience  
-- **Co-Chair, MRITogether24 Workshop by ESMRMB (2024)**  
-- **Member, EDI Committee, Department of Psychology, University of Toronto (since 2023)**  
-- **Member, EDI Task Force, ISMRM (since 2023)**  
-- **Siemens IDEA Pulse Programming Course (2021)**  
+- Co-Chair, [MRITogether24 Workshop](https://mritogether.esmrmb.org) by ESMRMB (2024)  
+- Member, MRITogether Working Group of ESMRMB (since 2025)  
+- Member, EDI Committee, Department of Psychology, University of Toronto (since 2023)  
+- Member, EDI Task Force, ISMRM (since 2023) 
+- Siemens IDEA Pulse Programming Course (2021) 
 
 ## Skills  
 - **Technical:** MR physics, fMRI analysis, magnetic field monitoring, image reconstruction, research software engineering (Matlab, Julia)  
 - **Languages:** German (native), English (fluent), French (beginner)  
 
 ## Awards  
-- **ISMRM Highlights of the Conference Award (2020)**  
-- **ISMRM Junior Fellow (2017)**  
-- **ISMRM Magna Cum Laude Abstract Award (2017)**  
-- **ISMRM Summa Cum Laude Abstract Award (2016)**  
-- **ISMRM Outstanding Teacher Award, ISMRM (2016)**  
-- **German National Merit Foundation Scholar (2000-2008)**  
-- **1st Prize Mathematical Olympiad (2001, 2002, Saxony-Anhalt, Germany)**  
+- ISMRM Highlights of the Conference Award (2020)  
+- ISMRM Junior Fellow (2017)
+- ISMRM Magna Cum Laude Abstract Award (2017)  
+- ISMRM Summa Cum Laude Abstract Award (2016)
+- ISMRM Outstanding Teacher Award, ISMRM (2016) 
+- German National Merit Foundation Scholar (2000-2008)  
+- 1st Prize Mathematical Olympiad (2001, 2002, Saxony-Anhalt, Germany)
 
 ## Selected Publications  
 - **Jaffray et al. (2024)** – GIRFReco.jl: Open-Source Pipeline for Spiral MRI Reconstruction ([JOSS](https://doi.org/10.21105/joss.05877))  
