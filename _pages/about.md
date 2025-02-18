@@ -15,7 +15,7 @@ My personal story through the lens of MRI can be found in this [ISMRM Member Spo
 
 My core research interest is improving image and time series quality in MRI through understanding both numerator and denominator of the signal-to-noise ratio, i.e., optimizing sampling in MRI, as well as characterizing and correcting for the various physiological and system-induced noise sources.
  
-I am a fervent supporter of open and accessible neuroscience, and contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of the International Society for Magnetic Resonance in Medicine, I aim to improve accessibility for researchers with caregiver responsibilities.
+I am a fervent supporter of open and accessible neuroscience, and contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of my department, as well as the EDI Task Force of the International Society for Magnetic Resonance in Medicine, I aim to improve accessibility for researchers with caregiver responsibilities.
 
 ## Research Interests
 
