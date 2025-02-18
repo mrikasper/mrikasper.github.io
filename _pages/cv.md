@@ -96,11 +96,12 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 - 1st Prize Mathematical Olympiad (2001, 2002, Saxony-Anhalt, Germany)
 
 ## Selected Publications  
-- **Jaffray et al. (2024)** – GIRFReco.jl: Open-Source Pipeline for Spiral MRI Reconstruction ([JOSS](https://doi.org/10.21105/joss.05877))  
-- **Renton et al. (2024)** – Neurodesk: Reproducible Neuroimaging Environments ([Nature Methods](https://doi.org/10.1038/s41592-023-02145-x))  
-- **Valevicius et al. (2023)** – Web-based Processing of fMRI Physiological Noise ([Frontiers Neuroinformatics](https://doi.org/10.3389/fninf.2023.1251023))  
-- **Frässle et al. (2021)** – TAPAS: Software for Translational Neuromodeling ([Front Psychiatry](https://doi.org/10.3389/fpsyt.2021.680811))  
-- **Kasper et al. (2017)** – The PhysIO Toolbox for Physiological Noise in fMRI ([J. Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2016.10.019))  
+- **Jaffray et al. (2024)** – GIRFReco.jl: An Open-Source Pipeline for Spiral Magnetic Resonance Image (MRI) Reconstruction in Julia ([JOSS](https://doi.org/10.21105/joss.05877))  
+- **Renton et al. (2024)** – Neurodesk: an accessible, flexible and portable data analysis environment for reproducible neuroimaging ([Nature Methods](https://doi.org/10.1038/s41592-023-02145-x))  
+- **Valevicius et al. (2023)** – Web-based processing of physiological noise in fMRI: addition of the PhysIO toolbox to CBRAIN ([Frontiers Neuroinformatics](https://doi.org/10.3389/fninf.2023.1251023))  
+- **Kasper et al. (2022)** – Advances in spiral fMRI: A high-resolution study with single-shot acquisition ([Neuroimage](https://doi.org/10.1016/j.neuroimage.2021.118738))  
+- **Frässle et al. (2021)** – TAPAS: An Open-Source Software Package for Translational Neuromodeling and Computational Psychiatry ([Front Psychiatry](https://doi.org/10.3389/fpsyt.2021.680811))  
+- **Kasper et al. (2017)** – The PhysIO Toolbox for Modeling Physiological Noise in fMRI Data ([J. Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2016.10.019))  
 
 For a full list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=PL1XGecAAAAJ).
 

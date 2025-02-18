@@ -36,8 +36,8 @@ My research focuses on adapting state of the art advances in MR imaging methodol
 
 ## Featured Projects
 
+- **[GIRFReco.jl](https://brain-to.github.io/GIRFReco.jl/)** – Open-source pipeline for spiral MRI reconstruction ([Journal of Open Source Software, 2024](https://doi.org/10.21105/joss.05877))
 - **[PhysIO Toolbox](https://github.com/ComputationalPsychiatry/PhysIO)** – Physiological noise correction for fMRI ([Journal of Neuroscience Methods, 2017](https://doi.org/10.1016/j.jneumeth.2016.10.019))  
-- **[UniQC Toolbox](https://github.com/ComputationalPsychiatry/UniQC)** – MRI quality control & analysis  
-- **[Neurodesk](https://neurodesk.org)** – Reproducible neuroimaging environments ([Nature Methods, 2024](https://doi.org/10.1038/s41592-023-02145-x))  
+- **[UniQC Toolbox](https://github.com/ComputationalPsychiatry/UniQC)** – MRI quality control & analysis ([ISMRM Conference Abstract 2018](https://archive.ismrm.org/2018/2842.html))
 - **[TAPAS](https://github.com/translationalneuromodeling/tapas)** – Translational Algorithms for Psychiatry-Advancing Science ([Front Psychiatry, 2021](https://doi.org/10.3389/fpsyt.2021.680811))  
-- **[GIRFReco.jl](hhttps://brain-to.github.io/GIRFReco.jl/)** – Open-source pipeline for spiral MRI reconstruction ([Journal of Open Source Software, 2024](https://doi.org/10.21105/joss.05877))
+- **[Neurodesk](https://neurodesk.org)** – Reproducible neuroimaging environments ([Nature Methods, 2024](https://doi.org/10.1038/s41592-023-02145-x))  
