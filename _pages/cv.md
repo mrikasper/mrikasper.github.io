@@ -74,6 +74,7 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 - Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox  
 
 ## Service and Leadership 
+- Governing Committee of the Reproducible Research Study Group (RRSG), ISMRM (2025-2028 Cycle Secretary/Vice-Chair/Chair/Past Chair) 
 - Co-Chair, [MRITogether24 Workshop](https://mritogether.esmrmb.org) by ESMRMB (2024)  
 - Member, MRITogether Working Group of ESMRMB (since 2025)  
 - Member, EDI Committee, Department of Psychology, University of Toronto (since 2023)  
