@@ -30,8 +30,8 @@ My research focuses on adapting state of the art advances in MR imaging methodol
 ## Academic Metrics
 
 - **h-index:** 27  
-- **Publications:** 43 peer-reviewed articles  
-- **Citations:** 3599 (Google Scholar, Feb 2025)  
+- **Publications:** 44 peer-reviewed articles  
+- **Citations:** 3858 (Google Scholar, Aug 2025)  
 - **Key Awards:** ISMRM Junior Fellow 2017, ISMRM Conference Highlight Abstract 2020
 
 ## Featured Projects
