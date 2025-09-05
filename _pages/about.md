@@ -31,11 +31,12 @@ My research focuses on adapting state of the art advances in MR imaging methodol
 
 - **h-index:** 27  
 - **Publications:** 44 peer-reviewed articles  
-- **Citations:** 3858 (Google Scholar, Aug 2025)  
+- **Citations:** 3891 (Google Scholar, Sep 2025)  
 - **Key Awards:** ISMRM Junior Fellow 2017, ISMRM Conference Highlight Abstract 2020
 
 ## Featured Projects
 
+- **[PyMoCo](https://github.com/BRAIN-TO/PyMoCo_v2)** – Open-source Python package (lead developer: Brian Nghiem) for retrospective MR motion correction using joint estimation ([Magnetic Resonance in Medicine, 2025](https://doi.org/10.1002/mrm.70052))
 - **[GIRFReco.jl](https://brain-to.github.io/GIRFReco.jl/)** – Open-source pipeline for spiral MRI reconstruction ([Journal of Open Source Software, 2024](https://doi.org/10.21105/joss.05877))
 - **[PhysIO Toolbox](https://github.com/ComputationalPsychiatry/PhysIO)** – Physiological noise correction for fMRI ([Journal of Neuroscience Methods, 2017](https://doi.org/10.1016/j.jneumeth.2016.10.019))  
 - **[UniQC Toolbox](https://github.com/ComputationalPsychiatry/UniQC)** – MRI quality control & analysis ([ISMRM Conference Abstract 2018](https://archive.ismrm.org/2018/2842.html))
