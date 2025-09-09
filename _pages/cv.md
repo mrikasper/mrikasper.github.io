@@ -68,10 +68,13 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 | PhD Students  | Krembil Brain Institute, UHN, Toronto | 1 |
 
 ## Invited Talks  
-- MRITogether, ESMRMB (2023) – TAPAS, UniQC, PhysIO Toolbox (Online)  
+- MRITogether, ESMRMB (Online, 2023) – [PhysIO, UniQC, and a TAPAStry of Tools](https://youtu.be/zkPvQjLV2Is?si=sxz6pBT6hnTX29zE)
 - Cardiff University Brain Research Imaging Centre (CUBRIC, 2022) – PhysIO Toolbox (Online)  
-- Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – PhysIO & Spiral Imaging  
-- Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox  
+- Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – PhysIO & Spiral Imaging
+- ISMRM 2020 Weekend Course: fMRI Across Spatial & Temporal Scales (ISMRM Annual Meeting, 2020) - [fMRI Denoising Techniques](https://youtu.be/ffq2HS8qs1M?si=9GlsjcySZqQ0OgZR)
+- Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox
+- ISMRM 2020 Weekend Course: Introduction to functional MRI  (ISMRM Annual Meeting, Singapore, 2016) - [Analyzing Data Using the General Linear Model](https://youtu.be/_13xJ8v3CFc?si=xsu9Hz94phdYFGRi)
+    - *selected for the ISMRM MR Academy Vault, Outstanding Teacher Award 2016*
 
 ## Service and Leadership 
 - Governing Committee of the Reproducible Research Study Group (RRSG), ISMRM (2025-2028 Cycle Secretary/Vice-Chair/Chair/Past Chair) 
