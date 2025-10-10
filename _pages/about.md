@@ -11,11 +11,13 @@ redirect_from:
 
 I am an MR physicist specializing in **fMRI**, with a particular focus on **physiological noise correction**, **magnetic field monitoring**, and **image reconstruction** and more than 15 years of experience in **ultra-high field** human MRI (7 Tesla). Currently, I am the **Lead MR Physicist** at the **[Toronto Neuroimaging Facility (ToNI)](https://toni.psych.utoronto.ca/)** in the Department of Psychology, University of Toronto.
 
-My personal story through the lens of MRI can be found in this [ISMRM Member Spotlight](https://www.ismrm.org/member-spotlight/lars-kasper/) from 2023.
+My personal story through the lens of MRI can be found in this [Member Spotlight](https://www.ismrm.org/member-spotlight/lars-kasper/) of the International Society for Magnetic Resonance in Medicine (ISMRM) from 2023.
 
 My core research interest is improving image and time series quality in MRI through understanding both numerator and denominator of the signal-to-noise ratio, i.e., optimizing sampling in MRI, as well as characterizing and correcting for the various physiological and system-induced noise sources.
  
-I am a fervent supporter of open and accessible neuroscience, and contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of my department, as well as the EDI Task Force of the International Society for Magnetic Resonance in Medicine, I aim to improve accessibility for researchers with caregiver responsibilities.
+I am a fervent supporter of open and accessible neuroscience and currently part of the Steering Committee of the Reproducible Research Study Group of ISMRM. I contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). 
+
+Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of my department and the EDI Task Force of the ISMRM, I aim to improve accessibility for researchers with caregiver responsibilities.
 
 ## Research Interests
 
@@ -31,7 +33,7 @@ My research focuses on adapting state of the art advances in MR imaging methodol
 
 - **h-index:** 27  
 - **Publications:** 44 peer-reviewed articles  
-- **Citations:** 3891 (Google Scholar, Sep 2025)  
+- **Citations:** 3998 (Google Scholar, Oct 2025)  
 - **Key Awards:** ISMRM Junior Fellow 2017, ISMRM Conference Highlight Abstract 2020
 
 ## Featured Projects
