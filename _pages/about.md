@@ -15,9 +15,9 @@ My personal story through the lens of MRI can be found in this [Member Spotlight
 
 My core research interest is improving image and time series quality in MRI through understanding both numerator and denominator of the signal-to-noise ratio, i.e., optimizing sampling in MRI, as well as characterizing and correcting for the various physiological and system-induced noise sources.
  
-I am a fervent supporter of open and accessible neuroscience and currently part of the Steering Committee of the Reproducible Research Study Group of ISMRM. I contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). 
+I am a fervent supporter of open and accessible neuroscience and currently part of the Steering Committee of the Open and Reproducible Research Study Group (OR2) of ISMRM. I contribute through clean code in the form of usable toolboxes (PhysIO for physiological noise correction in fMRI, UniQC for unified image quality control in MR development) and workflows (GIRFReco.jl for image reconstruction with expanded signal models, as applied, e.g,. to spirals MR sequences). 
 
-Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of my department and the EDI Task Force of the ISMRM, I aim to improve accessibility for researchers with caregiver responsibilities.
+Furthermore, as a member of the equity, diversity and inclusivity (EDI) committee of my department and the EDI Task Force of the ISMRM (2023-26), I aim to improve accessibility for researchers with caregiver responsibilities.
 
 ## Research Interests
 
@@ -31,9 +31,9 @@ My research focuses on adapting state of the art advances in MR imaging methodol
 
 ## Academic Metrics
 
-- **h-index:** 27  
-- **Publications:** 44 peer-reviewed articles  
-- **Citations:** 3998 (Google Scholar, Oct 2025)  
+- **h-index:** 28  
+- **Publications:** 45 peer-reviewed articles  
+- **Citations:** 4245 (Google Scholar, Mar 2026)  
 - **Key Awards:** ISMRM Junior Fellow 2017, ISMRM Conference Highlight Abstract 2020
 
 ## Featured Projects
