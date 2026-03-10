@@ -68,20 +68,22 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 | PhD Students  | Krembil Brain Institute, UHN, Toronto | 1 |
 
 ## Invited Talks  
-- MRITogether, ESMRMB (Online, 2023) – [PhysIO, UniQC, and a TAPAStry of Tools](https://youtu.be/zkPvQjLV2Is?si=sxz6pBT6hnTX29zE)
-- Cardiff University Brain Research Imaging Centre (CUBRIC, 2022) – PhysIO Toolbox (Online)  
-- Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – PhysIO & Spiral Imaging
-- ISMRM 2020 Weekend Course: fMRI Across Spatial & Temporal Scales (ISMRM Annual Meeting, 2020) - [fMRI Denoising Techniques](https://youtu.be/ffq2HS8qs1M?si=9GlsjcySZqQ0OgZR)
-- Bernstein Center for Computational Neuroscience, Berlin (2017) – PhysIO Toolbox
-- ISMRM 2020 Weekend Course: Introduction to functional MRI  (ISMRM Annual Meeting, Singapore, 2016) - [Analyzing Data Using the General Linear Model](https://youtu.be/_13xJ8v3CFc?si=xsu9Hz94phdYFGRi)
+- MR in Radiation Therapy Study Group Virtual Meeting (ISMRM, 2026) *The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research* ([Slides](https://github.com/mrikasper/talk-open-science-mrinrt-ismrm2026))
+- MRITogether, ESMRMB (Online, 2023) – *PhysIO, UniQC, and a TAPAStry of Tools* ([Video](https://youtu.be/zkPvQjLV2Is?si=sxz6pBT6hnTX29zE))
+- Cardiff University Brain Research Imaging Centre (CUBRIC, 2022) – *PhysIO Toolbox* (Online)  
+- Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – *PhysIO & Spiral Imaging*
+- ISMRM 2020 Weekend Course: fMRI Across Spatial & Temporal Scales (ISMRM Annual Meeting, 2020) - *fMRI Denoising Techniques* ([Video](https://youtu.be/ffq2HS8qs1M?si=9GlsjcySZqQ0OgZR))
+- Bernstein Center for Computational Neuroscience, Berlin (2017) – *The PhysIO Toolbox*
+    - *invited talk and bring-your-own-data two day workshop*
+- ISMRM 2020 Weekend Course: Introduction to functional MRI  (ISMRM Annual Meeting, Singapore, 2016) - *Analyzing Data Using the General Linear Model*([Video](https://youtu.be/_13xJ8v3CFc?si=xsu9Hz94phdYFGRi))
     - *selected for the ISMRM MR Academy Vault, Outstanding Teacher Award 2016*
 
 ## Service and Leadership 
-- Governing Committee of the Reproducible Research Study Group (RRSG), ISMRM (2025-2028 Cycle Secretary/Vice-Chair/Chair/Past Chair) 
+- Governing Committee of the Open and Reproducible Research Study Group (OR2), ISMRM (2025-2028 Cycle Secretary/Vice-Chair/Chair/Past Chair) 
 - Co-Chair, [MRITogether24 Workshop](https://mritogether.esmrmb.org) by ESMRMB (2024)  
 - Member, MRITogether Working Group of ESMRMB (since 2025)  
 - Member, EDI Committee, Department of Psychology, University of Toronto (since 2023)  
-- Member, EDI Task Force, ISMRM (since 2023) 
+- Member, EDI Task Force, ISMRM (2023-2026) 
 - Founding Member, Ad-hoc ISMRM Family Committee (2019-2020)
 
 ## Skills  
@@ -102,7 +104,6 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 ## Selected Publications  
 - **Jaffray et al. (2024)** – GIRFReco.jl: An Open-Source Pipeline for Spiral Magnetic Resonance Image (MRI) Reconstruction in Julia ([JOSS](https://doi.org/10.21105/joss.05877))  
 - **Renton et al. (2024)** – Neurodesk: an accessible, flexible and portable data analysis environment for reproducible neuroimaging ([Nature Methods](https://doi.org/10.1038/s41592-023-02145-x))  
-- **Valevicius et al. (2023)** – Web-based processing of physiological noise in fMRI: addition of the PhysIO toolbox to CBRAIN ([Frontiers Neuroinformatics](https://doi.org/10.3389/fninf.2023.1251023))  
 - **Kasper et al. (2022)** – Advances in spiral fMRI: A high-resolution study with single-shot acquisition ([Neuroimage](https://doi.org/10.1016/j.neuroimage.2021.118738))  
 - **Frässle et al. (2021)** – TAPAS: An Open-Source Software Package for Translational Neuromodeling and Computational Psychiatry ([Front Psychiatry](https://doi.org/10.3389/fpsyt.2021.680811))  
 - **Kasper et al. (2017)** – The PhysIO Toolbox for Modeling Physiological Noise in fMRI Data ([J. Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2016.10.019))  
