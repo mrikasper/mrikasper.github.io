@@ -69,13 +69,14 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 
 ## Invited Talks  
 - MR in Radiation Therapy Study Group Virtual Meeting (ISMRM, 2026) *The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research* ([Slides](https://github.com/mrikasper/talk-open-science-mrinrt-ismrm2026))
+- ISMRM 2024 Weekend Educational Course: Pulse Sequence Design  (ISMRM Annual Meeting, Singapore, 2024) - *Ultimate MR Encoding*([Syllabus](https://www.ismrm.org/24/pf/WE-20.htm))
 - MRITogether, ESMRMB (Online, 2023) – *PhysIO, UniQC, and a TAPAStry of Tools* ([Video](https://youtu.be/zkPvQjLV2Is?si=sxz6pBT6hnTX29zE))
 - Cardiff University Brain Research Imaging Centre (CUBRIC, 2022) – *PhysIO Toolbox* (Online)  
 - Krembil Neuroimaging Rounds, UHN, Toronto (2022, 2020) – *PhysIO & Spiral Imaging*
-- ISMRM 2020 Weekend Course: fMRI Across Spatial & Temporal Scales (ISMRM Annual Meeting, 2020) - *fMRI Denoising Techniques* ([Video](https://youtu.be/ffq2HS8qs1M?si=9GlsjcySZqQ0OgZR))
+- ISMRM 2020 Weekend Educational Course: fMRI Across Spatial & Temporal Scales (ISMRM Annual Meeting, 2020) - *fMRI Denoising Techniques* ([Video](https://youtu.be/ffq2HS8qs1M?si=9GlsjcySZqQ0OgZR))
 - Bernstein Center for Computational Neuroscience, Berlin (2017) – *The PhysIO Toolbox*
     - *invited talk and bring-your-own-data two day workshop*
-- ISMRM 2020 Weekend Course: Introduction to functional MRI  (ISMRM Annual Meeting, Singapore, 2016) - *Analyzing Data Using the General Linear Model*([Video](https://youtu.be/_13xJ8v3CFc?si=xsu9Hz94phdYFGRi))
+- ISMRM 20216 Weekend Educational Course: Introduction to functional MRI  (ISMRM Annual Meeting, Singapore, 2016) - *Analyzing Data Using the General Linear Model*([Video](https://youtu.be/_13xJ8v3CFc?si=xsu9Hz94phdYFGRi))
     - *selected for the ISMRM MR Academy Vault, Outstanding Teacher Award 2016*
 
 ## Service and Leadership 
