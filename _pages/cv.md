@@ -45,7 +45,7 @@ Currently, Lars is the Lead MR Physicist of the [Toronto Neuroimaging Facility (
 - **High School (Abitur), Gymnasium "Georg-Cantor", Halle (Saale), Germany** (1993-2002)  
 
 ## Project Management Experience  
-- Facility Management and Operations at Toronto Neuroimaging Facility, University of Toronto** (since 2023)  
+- Facility Management and Operations at Toronto Neuroimaging Facility, University of Toronto (since 2023)  
 - Translation of MR technology advancements to clinical MR systems (3 Tesla), UHN, Toronto (2020-2023)  
 - Co-Investigator, pioneering layer fMRI study at ultra-high Field (7 Tesla), ETH Zurich (2016-2019)  
 - Software Maintainer, TAPAS Software Suite, University of Zurich (2016-2018)  
@@ -68,6 +68,7 @@ As staff scientist, I have not been a formal supervisor to students. But I have 
 | PhD Students  | Krembil Brain Institute, UHN, Toronto | 1 |
 
 ## Invited Talks  
+- MRI Innovations & Safety Symposium (Ontario Association of Medical Radiation Sciences , 2026) *Making Every Voxel Count: Advanced Quality Assurance in Research MRI*)
 - MR in Radiation Therapy Study Group Virtual Meeting (ISMRM, 2026) *The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research* ([Slides](https://github.com/mrikasper/talk-open-science-mrinrt-ismrm2026))
 - ISMRM 2024 Weekend Educational Course: Pulse Sequence Design  (ISMRM Annual Meeting, Singapore, 2024) - *Ultimate MR Encoding*([Syllabus](https://www.ismrm.org/24/pf/WE-20.htm))
 - MRITogether, ESMRMB (Online, 2023) – *PhysIO, UniQC, and a TAPAStry of Tools* ([Video](https://youtu.be/zkPvQjLV2Is?si=sxz6pBT6hnTX29zE))
